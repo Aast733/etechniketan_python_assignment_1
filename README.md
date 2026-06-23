@@ -1,6 +1,6 @@
 # Python Assignment .
 ## This repository contains solutions for the Python programming exercises in Assignment 1-1.
-## Topics Coovered
+## Topics Covered
 Keywords in python,
 Variable types,
 Tuple operations,
